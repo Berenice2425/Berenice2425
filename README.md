@@ -1,6 +1,4 @@
- cat << 'TEMPLATE' > README.md
-> 
-> <!-- Header Section -->
+
 > <h3 align="center">A Passionate [DevOps Engineer] from [Lagos, Nigeria]<h3>
 > <!-- Intro/Bio -->
 > - 🔭 I’m currently working on **[THE SECRET REOPSITORY]**
