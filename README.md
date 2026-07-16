@@ -35,8 +35,8 @@
 
 ## 🛠️ Microsoft Applied Skills
 
-- [ ] **Secure Storage for Azure Files and Azure Blob Storage**
-- [ ] **Get Started with Azure Management Tasks**
+- [x] **Secure Storage for Azure Files and Azure Blob Storage**
+- [x] **Get Started with Azure Management Tasks**
 
 ---
 
