@@ -82,10 +82,10 @@
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:berenicechinyem@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io" alt="Email" />
   </a>
 </p>
 
