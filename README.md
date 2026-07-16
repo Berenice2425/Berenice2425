@@ -57,7 +57,7 @@
 
 > <!-- Tech Stack (Using DevIcons) -->
 > <p align="center">
-> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws" />
+> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,Kubernetes,VScode,AzureCLI,GCP,Terraform,Linux, Ubuntu " />
 > </p>
 
 ---
@@ -68,12 +68,6 @@
   <br /><br />
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
-
-> <!-- GitHub Stats -->
-> <p align="center">
-> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-> </p>
 
 ---
 
