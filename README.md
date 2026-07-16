@@ -35,7 +35,7 @@
 ## 📝 Recent Blog Posts
 <p align="left">
   <a href="https://dev.to" target="_blank">
-    <img src="himg.shields.io/badge/devops-%230072C6.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Tools Post" />
+    <img src="https://img.shields.io/badge/devops-%230072C6.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Tools Post" />
   </a>
   <br />
   <a href="https://dev.to" target="_blank">
