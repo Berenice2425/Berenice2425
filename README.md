@@ -55,7 +55,7 @@
 
 ## 💻 Berenice's Tech Stack:
 > <!-- Tech Stack (Using DevIcons) -->
-> <p align="center">
+> <p align="left">
 > <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws" />
 > </p>
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -72,5 +72,5 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Berenice Enikanoselu)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
 
