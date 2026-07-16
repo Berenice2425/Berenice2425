@@ -43,7 +43,7 @@
 ## 📝 Recent Blog Posts
 <p align="left">
   <a href="https://dev.to" target="_blank">
-    <img src="https://shields.io" alt="DevOps Tools Post" />
+    <img src="himg.shields.io/badge/devops-%230072C6.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Tools Post" />
   </a>
   <br />
   <a href="https://dev.to" target="_blank">
@@ -72,5 +72,5 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Berenice Enikanoselu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Berenice Enikanoselu)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
 
