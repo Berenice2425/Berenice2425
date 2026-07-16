@@ -57,7 +57,7 @@
 
 > <!-- Tech Stack (Using DevIcons) -->
 > <p align="center">
-> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,Ubuntu,python,docker,aws,Kubernetes,VScode,AzureCLI,GCP,Terraform,Linux" />
+> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws" />
 > </p>
 
 ---
