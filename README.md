@@ -62,14 +62,21 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Berenice's GitHub Stats" />
-  <br /><br />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
+## 📊Berenice's GitHub Stats
+> <!-- GitHub Stats -->
+> <p align="center">
+> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt=" GitHub Stats" />
+> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+> </p>
 ---
+
+## 🤝 Connect with Me
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:berenicechinyem@gmail.com)
+
 
 ## 🤝 Connect with Me
 
@@ -81,3 +88,4 @@
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
+
