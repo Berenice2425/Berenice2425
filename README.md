@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
 </p>
 
 <!-- Live Visitors Counter Badge -->
