@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Berenice%20Enikanoselu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20365%2Certified%20%7C%20Tech%20Researcher&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Berenice%20Enikanoselu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20365%20Certified%20%7C%20Tech%20Researcher&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+365+Certified;Cloud+Security+Enthusiast" />
 
@@ -37,6 +37,9 @@
 </a>
 
 </p>
+
+---
+
 
 ## 🏆 Certification| 🛠️ Microsoft Applied Skills
 
@@ -75,7 +78,7 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 ---
 
-#  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -86,7 +89,7 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 ---
 
 
-#  GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
@@ -95,7 +98,7 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 </div>
 
 
-# Areas of Expertise
+## Areas of Expertise
 
 - Microsoft Azure
 - Amazon Web Services (AWS)
@@ -124,8 +127,10 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 <img src="https://komarev.com/ghpvc/?username=Berenive2425&style=for-the-badge&color=0e75b6"/>
 
 </div>
+
 ---
-# The Open Source Passion ❤️
+
+## The Open Source Passion ❤️
 
 I am passionate about optimization: building tools that scale the cloud ecosystem, streamlining developer workflows, and simplifying access to complex technology.
 
@@ -138,5 +143,8 @@ If you love or find any of my work interesting,  do give a ⭐ star to a reposit
 ### Thanks for visiting my profile! 👋
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=120&section=footer"/>
+
 
 
