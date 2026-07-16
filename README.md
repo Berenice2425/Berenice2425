@@ -1,12 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Berenice%20Enikanoselu &fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20365%20Certified&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Berenice%20Enikanoselu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20365%2Certified%20Tech%20%7C%20Researcher&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+365+Certified;Cloud+Security+Enthusiast" />
 
 </div>
 
 ---
+## Hi 👋, I'm Berenice!
+
+### 🚀 DevOps Engineer | ☁️ M365 Certified | 🔬 Tech Researcher
 
 ## 👩‍💻 About Me
 
@@ -19,16 +22,16 @@
 
 ---
 
-#  Connect With Me
+## Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Berenice2425">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://linkedin.com/in/berenice-enikanoselu">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Berenice2425">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://github.com/berenicechinyem@gmail.com">
@@ -37,7 +40,7 @@
 
 </p>
 
-## 🏆 Certification| ## 🛠️ Microsoft Applied Skills
+## 🏆 Certification| 🛠️ Microsoft Applied Skills
 
 - ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)**
 - ✅ **Secure Storage for Azure Files and Azure Blob Storage**
@@ -93,17 +96,6 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 </div>
 
-# 🏅 Leadership
-
-| Certification | Status |
-|---------------|--------|
-| 🏆 Microsoft Azure Most Valuable Professional | ✅ |
-| 💰 FinOps Certified Professional | ✅ |
-| 🌍 MGCI Regional Leader | ✅ |
-| ☁️ Cloud & DevOps Engineer | ✅ |
-| 🤝 Open Source Contributor | ✅ |
-
----
 
 # Areas of Expertise
 
