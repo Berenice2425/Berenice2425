@@ -1,7 +1,10 @@
 # Hi 👋, I'm Berenice!
 
 ### 🚀 DevOps Engineer | ☁️ M365 Certified | 🔬 Tech Researcher
+
+
 ---
+
 
 ## 👩‍💻 About Me
 
@@ -55,11 +58,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Berenice2425&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Berenice2425&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berenicechinyem@gmail.com) 
 
