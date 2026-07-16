@@ -132,7 +132,7 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 ## The Open Source Passion ❤️
 
-I am passionate about optimization: building tools that scale the cloud ecosystem, streamlining developer workflows, and simplifying access to complex technology.
+I am passionate about building tools that scale the cloud ecosystem, streamlining developer workflows, and simplifying access to complex technology.
 
 If you love or find any of my work interesting,  do give a ⭐ star to a repository or following me.
 
