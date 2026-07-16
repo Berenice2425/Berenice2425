@@ -1,17 +1,6 @@
 # Hi 👋, I'm Berenice!
 
 ### 🚀 DevOps Engineer | ☁️ M365 Certified | 🔬 Tech Researcher
-
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
-</p>
-
-<!-- Live Visitors Counter Badge -->
-<p align="center">
-  <img src="https://komarev.com" alt="Visitor Counter" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
