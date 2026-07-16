@@ -34,7 +34,7 @@
 
 ## 📝 Recent Blog Posts
 <p align="left">
-  <a href="[https://dev.to](https://dev.to/berenice/installing-the-trio-basic-tools-of-devops-git-curl-and-docker-3ddi)" target="_blank">
+  <a href="[https://dev.to/berenice/installing-the-trio-basic-tools-of-devops-git-curl-and-docker-3ddi]" target="_blank">
     <img src="https://img.shields.io" alt="DevOps Tools Post" /> 
   </a>
   <br />
