@@ -50,7 +50,8 @@
 - ✅ **Get Started with Cloud Security and Monitoring Tasks**
 
 
-<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />  <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/6b559cae-a598-47b7-9cd0-13e95242b275" /> 
+<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />  <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/6b559cae-a598-47b7-9cd0-13e95242b275" /> <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/58e10b8d-ce6d-4c04-954f-4656687c2733" />
+
 
 
 ---
