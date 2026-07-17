@@ -17,6 +17,7 @@
 - 🌱 **Current Focus:** Optimizing CI/CD pipelines, container orchestration, and system efficiency.
 - 💡 **Philosophy:** Bridging the gap between standard enterprise cloud operations and deep technical research.
 
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />
 
 ---
 
