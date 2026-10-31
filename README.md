@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Berenice%20Enikanoselu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20365%20Certified%20%7C%20Tech%20Researcher&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+365+Certified;Cloud+Security+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+365+Certified;Cloud+Security+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Linux" />
 
 </div>
 
@@ -101,15 +101,17 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,nginx,redis,mongodb,postgres,mysql,ubuntu,debian"/>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,nginx"/>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?
+  i=redis,mongodb,postgres,mysql,ubuntu,debian"/>
 </p>
 
 ---
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/berenice-enikanoselu">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
