@@ -13,7 +13,7 @@
 
 I engineer large-scale enterprise environments on Microsoft Azure to help businesses unlock the full potential of cloud computing, Passionate about building robust, scalable infrastructure and automating workflows and bridge the gap between standard enterprise cloud operations and deep technical research.
 
-##🛡️What I Do:
+## 🛡️What I Do:
 
 • Architect Azure landing zones, hub-spoke networks, and multi-region topologies.
 • Secure workloads via enterprise identity, custom RBAC, and policy enforcement.
