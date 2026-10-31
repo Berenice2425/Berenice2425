@@ -16,7 +16,9 @@ I engineer large-scale enterprise environments on Microsoft Azure to help busine
 ## 🛡️What I Do:
 
 • Architect Azure landing zones, hub-spoke networks, and multi-region topologies.
+
 • Secure workloads via enterprise identity, custom RBAC, and policy enforcement.
+
 • Automate delivery pipelines to replace fragile manual tasks with auditable, declarative processes.
 
 ## 🛠️ Technology Index:
@@ -104,10 +106,10 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode"/>
 </p>
 
+
 <p align="center">
   
-<img src="https://go-skill-icons.vercel.app/api/icons?
-i=redis,mongodb,nginx,postgres,mysql,ubuntu,debian"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis,mongodb,nginx,postgres,mysql,ubuntu,debian"/>
 </p>
 
 ---
