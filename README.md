@@ -24,16 +24,22 @@ I engineer large-scale enterprise environments on Microsoft Azure to help busine
 ## 🛠️ Technology Index:
 
 • Cloud Platform: Microsoft Azure
+
 • IaC Frameworks: Terraform, Bicep
+
 • CI/CD Platforms: GitHub Actions, Azure DevOps
+
 • Containers: Azure Kubernetes Service (AKS), Container Apps
+
 • Core Competencies: Identity & Governance, Network Security, Drift Detection
 
 ---
 
 ## 🚀 Professional Highlights
 • Infrastructure Automation: Accelerated environment setup times by 98% by automating VM and Application Gateway provisioning via Terraform and CI/CD pipelines.
+
 • Secure Networking: Architected scalable hub-spoke network topologies across 5 Azure subscriptions utilizing private endpoints to ensure zero public exposure.
+
 • Cost Optimization: Minimized non-production compute spend by engineering automated deallocation and shutdown schedules for idle virtual machines.
 
 
