@@ -13,13 +13,13 @@
 
 I engineer large-scale enterprise environments on Microsoft Azure to help businesses unlock the full potential of cloud computing, Passionate about building robust, scalable infrastructure and automating workflows and bridge the gap between standard enterprise cloud operations and deep technical research.
 
-🛡️What I Do:
+##🛡️What I Do:
 
 • Architect Azure landing zones, hub-spoke networks, and multi-region topologies.
 • Secure workloads via enterprise identity, custom RBAC, and policy enforcement.
 • Automate delivery pipelines to replace fragile manual tasks with auditable, declarative processes.
 
-🛠️ Technology Index:
+## 🛠️ Technology Index:
 
 • Cloud Platform: Microsoft Azure
 • IaC Frameworks: Terraform, Bicep
@@ -29,7 +29,7 @@ I engineer large-scale enterprise environments on Microsoft Azure to help busine
 
 ---
 
-🚀 Professional Highlights
+## 🚀 Professional Highlights
 • Infrastructure Automation: Accelerated environment setup times by 98% by automating VM and Application Gateway provisioning via Terraform and CI/CD pipelines.
 • Secure Networking: Architected scalable hub-spoke network topologies across 5 Azure subscriptions utilizing private endpoints to ensure zero public exposure.
 • Cost Optimization: Minimized non-production compute spend by engineering automated deallocation and shutdown schedules for idle virtual machines.
@@ -54,7 +54,7 @@ I engineer large-scale enterprise environments on Microsoft Azure to help busine
 
 - ✅ **Administer Active Directory Domain Services** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/EF4811EE9C06D109?sharingId=3965AE93D45CE3B4)
 
-- ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)** [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/EF4811EE9C06D109?sharingId=3965AE93D45CE3B4))
+- ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)** [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/EF4811EE9C06D109?sharingId=3965AE93D45CE3B4)
 
   
 ## 🤝 Open Source Contributions
