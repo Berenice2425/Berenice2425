@@ -11,9 +11,9 @@
 
 # 👩‍💻 About Me
 
-- I engineer large-scale enterprise environments on Microsoft Azure to help businesses unlock the full potential of cloud computing, Passionate about building robust, scalable infrastructure and automating workflows and bridge the gap between standard enterprise cloud operations and deep technical research.
+I engineer large-scale enterprise environments on Microsoft Azure to help businesses unlock the full potential of cloud computing, Passionate about building robust, scalable infrastructure and automating workflows and bridge the gap between standard enterprise cloud operations and deep technical research.
 
-⚙️What I Do:
+🛡️What I Do:
 
 • Architect Azure landing zones, hub-spoke networks, and multi-region topologies.
 • Secure workloads via enterprise identity, custom RBAC, and policy enforcement.
@@ -26,6 +26,84 @@
 • CI/CD Platforms: GitHub Actions, Azure DevOps
 • Containers: Azure Kubernetes Service (AKS), Container Apps
 • Core Competencies: Identity & Governance, Network Security, Drift Detection
+
+---
+
+🚀 Professional Highlights
+• Infrastructure Automation: Accelerated environment setup times by 98% by automating VM and Application Gateway provisioning via Terraform and CI/CD pipelines.
+• Secure Networking: Architected scalable hub-spoke network topologies across 5 Azure subscriptions utilizing private endpoints to ensure zero public exposure.
+• Cost Optimization: Minimized non-production compute spend by engineering automated deallocation and shutdown schedules for idle virtual machines.
+
+
+---
+
+
+## 🏆 Microsoft Applied Skills | Certification
+
+## Microsoft Applied Skills
+
+- ✅ **Get started with identities and access using Microsoft Entra** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/CCDB1197CCDAF154?sharingId=3965AE93D45CE3B4)
+
+- ✅ **Get started with cloud security and monitoring tasks** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/97C03E01FE450064?sharingId=3965AE93D45CE3B4)
+
+- ✅ **Resolve GitHub issues by using GitHub Copilot** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/7C766622E8D9FDBA?sharingId=3965AE93D45CE3B4)
+
+- ✅ **Get started with Azure management tasks** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/F4E84248D2DF2C3F?sharingId=3965AE93D45CE3B4)
+
+- ✅ **Secure storage for Azure Files and Azure Blob Storage** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/D8C433C8FF68C3A1?sharingId=3965AE93D45CE3B4)
+
+- ✅ **Administer Active Directory Domain Services** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/EF4811EE9C06D109?sharingId=3965AE93D45CE3B4)
+
+- ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)** [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/EF4811EE9C06D109?sharingId=3965AE93D45CE3B4))
+
+  
+## 🤝 Open Source Contributions
+
+Successfully contributed to and merged changes into public GitHub projects.
+
+### PinpointPro
+
+Contributed to **PinpointPro**, an open-source location intelligence project, by improving project documentation and maintaining contributor records.
+
+### Contributions
+
+#### ✅ PR #49 – Browser Prerequisites Documentation
+- Built non-case-sensitive keyword matching that scans across live data arrays and object hashtags simultaneously.
+- Implemented dynamic dropdown populations using clean JavaScript ES6 Sets, eliminating the need for manual metadata updates.
+- Styled the components to align perfectly with the project's signature glassmorphism, maintaining sharp tracking borders and lightweight layout structures.
+
+🔗 **Pull Request:** https://github.com/raphgm/pinpointpro/pull/49
+
+---
+
+#### ✅ PR #9 – CONTRIBUTORS.md Update
+- Added my details to the project's `CONTRIBUTORS.md` as a **Phase 2 Project Contributor**.
+- Corrected grammar in the README
+- Helped keep contributor records accurate and efficient community participation.
+
+🔗 **Pull Request:** https://github.com/raphgm/pinpointpro/pull/9
+
+
+### 🏆 Impact
+- Demonstrated proficiency with GitHub's open-source collaboration workflow which includes but not limited to feature branches, pull requests, code reviews, commits, forks and merges.
+- Successfully submitted **3 merged pull requests**.
+- Requests were **reviewed, approved, and merged** by the project maintainer.
+
+---
+
+
+<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />  <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/6b559cae-a598-47b7-9cd0-13e95242b275" />
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,nginx,redis,mongodb,postgres,mysql,ubuntu,debian"/>
+
+</p>
 
 ---
 
@@ -49,61 +127,6 @@
 
 ---
 
-
-## 🏆 Certification| 🛠️ Microsoft Applied Skills
-
-
-- ✅ **Secure Storage for Azure Files and Azure Blob Storage**
-- ✅ **Get Started with Azure Management Tasks**
-- ✅ **Get Started with Cloud Security and Monitoring Tasks**
-- - ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)**
-
-
-<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />  <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/6b559cae-a598-47b7-9cd0-13e95242b275" />
-
-
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,nginx,redis,mongodb,postgres,mysql,ubuntu,debian"/>
-
-</p>
-
----
-
-## 🤝 Open Source Contributions
-
-### 📌 PinpointPro
-
-Contributed to **PinpointPro**, an open-source location intelligence project, by improving project documentation and maintaining contributor records.
-
-### 🚀 Contribution
-
-🔗 **Pull Request:** https://github.com/raphgm/pinpointpro/pull/9
-
-
-### 🏆 Impact
-- Demonstrated proficiency with GitHub's open-source collaboration workflow which includes but not limited to feature branches, pull requests, code reviews, commits, forks and merges.
-- Successfully submitted **1 merged pull requests**.
-- Request was **reviewed, approved, and merged** by the project maintainer.
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berenice2425&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-
 ##  GitHub Streak
 
 <div align="center">
@@ -111,27 +134,6 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 <img src="https://streak-stats.demolab.com?user=Berenice2425&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
-## Areas of Expertise
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Kubernetes
-- Docker
-- Terraform
-- Infrastructure as Code
-- DevOps
-- GitHub Actions
-- CI/CD
-- Linux
-- Platform Engineering
-- Cloud Security
-- FinOps
-- Python
-- PowerShell
-- Node.js
 
 ---
 
@@ -147,9 +149,8 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 
 ## The Open Source Passion ❤️
 
-I am passionate about building tools that scale the cloud ecosystem, streamlining developer workflows, and simplifying access to complex technology.
+I am passionate about collaborating in building tools that scale the cloud ecosystem, streamlining developer workflows, and simplifying access to complex technology.
 
-If you love or find any of my work interesting,  do give a ⭐ star to a repository or following me.
 
 ---
 
