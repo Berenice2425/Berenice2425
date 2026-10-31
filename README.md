@@ -11,13 +11,21 @@
 
 # 👩‍💻 About Me
 
-- 🎓 **Microsoft Certified:** Professional with foundational expertise in Microsoft 365 cloud services, security, compliance, and teamwork capabilities.
-- 🛠️ **DevOps & Automation:** Passionate about building robust, scalable infrastructure and automating workflows.
-- 🔬 **Continuous Research:** Deep-diving into emerging technologies, architectural patterns, and cloud-native solutions.
-- 🌱 **Current Focus:** Optimizing CI/CD pipelines, container orchestration, and system efficiency.
-- 💡 **Philosophy:** Bridging the gap between standard enterprise cloud operations and deep technical research.
+- I engineer large-scale enterprise environments on Microsoft Azure to help businesses unlock the full potential of cloud computing, Passionate about building robust, scalable infrastructure and automating workflows and bridge the gap between standard enterprise cloud operations and deep technical research.
 
+⚙️What I Do:
 
+• Architect Azure landing zones, hub-spoke networks, and multi-region topologies.
+• Secure workloads via enterprise identity, custom RBAC, and policy enforcement.
+• Automate delivery pipelines to replace fragile manual tasks with auditable, declarative processes.
+
+🛠️ Technology Index:
+
+• Cloud Platform: Microsoft Azure
+• IaC Frameworks: Terraform, Bicep
+• CI/CD Platforms: GitHub Actions, Azure DevOps
+• Containers: Azure Kubernetes Service (AKS), Container Apps
+• Core Competencies: Identity & Governance, Network Security, Drift Detection
 
 ---
 
@@ -44,10 +52,11 @@
 
 ## 🏆 Certification| 🛠️ Microsoft Applied Skills
 
-- ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)**
+
 - ✅ **Secure Storage for Azure Files and Azure Blob Storage**
 - ✅ **Get Started with Azure Management Tasks**
 - ✅ **Get Started with Cloud Security and Monitoring Tasks**
+- - ☁️ Microsoft Certified **Microsoft 365 Fundamentals(MS-900)**
 
 
 <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/731d3c8c-9bde-432d-9527-9ed6ec10684d" />  <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/6b559cae-a598-47b7-9cd0-13e95242b275" />
