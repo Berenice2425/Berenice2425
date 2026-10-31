@@ -102,16 +102,17 @@ Contributed to **PinpointPro**, an open-source location intelligence project, by
 <p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode"/>
+</p>
 
 <p align="center">
+  
 <img src="https://go-skill-icons.vercel.app/api/icons?
-  i=redis,mongodb,nginx,postgres,mysql,ubuntu,debian"/>
+i=redis,mongodb,nginx,postgres,mysql,ubuntu,debian"/>
 </p>
 
 ---
 
 ## Connect With Me
-
 <p align="left">
 
 <a href="https://linkedin.com/in/berenice-enikanoselu">
