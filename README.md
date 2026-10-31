@@ -50,11 +50,11 @@ I engineer large-scale enterprise environments on Microsoft Azure to help busine
 
 ## Microsoft Applied Skills
 
-- ✅ **Get started with identities and access using Microsoft Entra** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/CCDB1197CCDAF154?sharingId=3965AE93D45CE3B4)
-
-- ✅ **Get started with cloud security and monitoring tasks** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/97C03E01FE450064?sharingId=3965AE93D45CE3B4)
-
 - ✅ **Resolve GitHub issues by using GitHub Copilot** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/7C766622E8D9FDBA?sharingId=3965AE93D45CE3B4)
+- 
+- ✅ **Get started with cloud security and monitoring tasks** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/97C03E01FE450064?sharingId=3965AE93D45CE3B4)
+- 
+- ✅ **Get started with identities and access using Microsoft Entra** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/CCDB1197CCDAF154?sharingId=3965AE93D45CE3B4)
 
 - ✅ **Get started with Azure management tasks** • [View](https://learn.microsoft.com/api/credentials/share/en-us/Berenice-9997/F4E84248D2DF2C3F?sharingId=3965AE93D45CE3B4)
 
